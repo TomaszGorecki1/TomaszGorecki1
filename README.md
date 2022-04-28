@@ -1,5 +1,4 @@
 ### Hi there 👋, I am Tomasz Górecki
-#### Still learning  Web-developer.
 ![Always learning  Web-developer](https://i.imgur.com/uMBsx6C.png)
 
 I am Tomasz Górecki from Poland I am 17 years old, and I am currently focused on learning and mastering my web-development skills. Right now I am fully concentrated on learning javascript, even though I was tought a little about it in school (I'am in programming class in technical high-school) I want to progress more and do more exciting projects so I'm participating in Jonas Schmedtmann's course. In addition to studying I work as an apprentice in Polish dev-company APR-SYSTEM. I am planning to learn some stuff about UI/UX design to be able to provide better solutions to design problems I encounter.
