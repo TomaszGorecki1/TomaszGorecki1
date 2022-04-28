@@ -1,4 +1,4 @@
-### Hi there 👋, Tomasz Górecki
+### Hi there 👋, I am Tomasz Górecki
 #### Always learning  Web-developer
 ![Always learning  Web-developer](https://i.imgur.com/uMBsx6C.png)
 
