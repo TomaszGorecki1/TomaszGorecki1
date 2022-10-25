@@ -1,14 +1,14 @@
 # Hi there 👋, I am Tomasz Górecki
 ![Always learning  Web-developer](https://i.imgur.com/uMBsx6C.png)
 
-I am Tomasz Górecki from Poland I am 17 years old, and I am currently focused on learning and mastering my web-development skills. Right now I am fully concentrated on learning javascript, even though I was tought a little about it in school (I'am in programming class in technical high-school) I want to progress more and do more exciting projects so I'm participating in Jonas Schmedtmann's course. In addition to studying I work as an apprentice in Polish dev-company APR-SYSTEM. I am planning to learn some stuff about UI/UX design to be able to provide better solutions to design problems I encounter. I am active table-tennis player in 3rd league. I love watching football matches on local Stadium, I am huge Korona Kielce football team fan. In close future I am planning to do my own website and display whole portfolio in simple way. For sure my learning how to code is never ending story, I can see a lot of opurtunities for me to learn new things and my goal is to be able to build really big applications in huge teams.
+I am Tomasz Górecki from Poland I am 17 years old, and I am currently focused on learning and mastering my web-development skills. Right now I am fully concentrated on learning react, even though I was tought a little about it in school (I'am in programming class in technical high-school) I want to progress more and do more exciting projects so I'm participating in few courses. In addition to studying I work as an apprentice in Polish dev-company APR-SYSTEM. I am planning to learn some stuff about UI/UX design to be able to provide better solutions to design problems I encounter. I am planning to do my own website and display whole portfolio in simple way. For sure my learning how to code is never ending story, I can see a lot of opurtunities for me to learn new things and my goal is to be able to build really big applications in huge teams.
 
-## Skills: BOOTSTRAP / JS / HTML / CSS / C++ 
+## Skills: BOOTSTRAP / JS / HTML / CSS / C++ / React / C# /Git
 
-- 🔭 I’m currently working on Mastering Javascript 
-- 🌱 I’m currently learning JS and UI/UX design 
+- 🔭 I’m currently working on Mastering React 
+- 🌱 I’m currently learning React and UI/UX design 
 - 💬 Ask me about everything! 
-- 📫 How to reach me: tomasz.gorecki16@gmail.com 
+- 📫 How to reach me: tomigunpl@gmail.com
 - ⚡ Fun fact: I am 17 years old and I love learning new stuff. 
 
 
